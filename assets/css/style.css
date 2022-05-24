@@ -1014,27 +1014,10 @@ h3 {
     text-align: center;
     margin-bottom: var(--m-2-5);
   }
-  .prices,
   .services .service-item {
     flex: 0 0 50%;
     max-width: 50%;
     margin-bottom: var(--m-2-5);
-  }
-  .price-item.best {
-    padding: var(--card-padding);
-  }
-  .prices:nth-child(odd) {
-    margin-top: 0;
-  }
-  .prices:nth-child(1) {
-    padding-right: 15px;
-  }
-  .prices:nth-child(2) {
-    padding-right: 15px;
-    padding-left: 15px;
-  }
-  .prices:nth-child(3) {
-    padding-left: 15px;
   }
   .customize-theme .card {
     width: 58vw;
